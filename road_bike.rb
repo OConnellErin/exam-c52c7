@@ -4,7 +4,7 @@ class RoadBike
 
   def initialize
     @daily_rate = 15
-    @weekly_rate = 15*7
+    @weekly_rate = 105
   end
 
   def clean
@@ -26,5 +26,5 @@ class RoadBike
   def bag
     @bag
   end
-  
+
 end

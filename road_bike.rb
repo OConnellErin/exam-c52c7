@@ -1,3 +1,5 @@
+require_relative 'bag'
+
 class RoadBike
 
   def initialize
@@ -21,4 +23,8 @@ class RoadBike
     @weekly_rate
   end  
 
+  def bag
+    @bag
+  end
+  
 end

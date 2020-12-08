@@ -1,4 +1,4 @@
-require_relative 'tail_pack'
+require_relative 'bag'
 
 class BmxBike
 
